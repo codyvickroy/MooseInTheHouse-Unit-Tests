@@ -6,7 +6,7 @@ import models.card.bottom.*;
 import models.card.top.*;
 import models.card.bottom.Moose;
 
-public class BotTest extends TestCase {
+public class CardTest extends TestCase {
 
     Card[] houseWithMoose;
     Card[] houseEmpty;
